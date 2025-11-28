@@ -57,7 +57,7 @@ print(f"최댓값: {max_value}")
 print(f"최솟값: {min_value}")    
 
 **사용자로부터 숫자 4개를 입력 받은 후 최댓값과 최솟값을 계산하였습니다.    
-user-defined function(사용자 정의 함수)을 이용하였습니다.
+user-defined function(사용자 정의 함수)을 이용하였습니다.    
 코드가 너무 길어져 코드 블록도 같이 사용하여 만들어보았습니다.**     
 
 # 과제 42    
