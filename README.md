@@ -33,8 +33,7 @@ def b(n1, n2, n3, n4):
     if n2 > max:    
         max = n2    
     if n2 < min:    
-        min = n2    
-        
+        min = n2   
     if n3 > max:    
         max = n3    
     if n3 < min:    
