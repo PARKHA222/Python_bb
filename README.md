@@ -91,8 +91,8 @@ print (b(x),end='!'"\n")
 def b(v,z):    
   for i in range(v+1):    
     for j in range(z+1):    
-      if (i*j > 30):    
-        print ("%d * %d = %d" % (i,j,i*j))    
+      if ( i * j > 30):    
+        print ("%d * %d = %d" % (i,j,i * j))    
 
 v = int(input('2이상 9이하의 숫자를 입력하세요:'))    
 z = int(input('2이상 9이하의 숫자를 입력하세요:'))    
